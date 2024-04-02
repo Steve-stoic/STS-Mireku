@@ -2,7 +2,7 @@ import random
 import string
 print("You are welcome to the Ultimate Password Generator!")
 
-#from numpy import character
+
 while True:
     
 
